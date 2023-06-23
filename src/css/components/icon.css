@@ -1,0 +1,15 @@
+.c-icon {
+    aspect-ratio: 1/1;
+}
+
+.c-icon--small {
+    height: 16px;
+}
+
+.c-icon--medium {
+    height: 32px;
+}
+
+.c-icon--large {
+    height: 64px;
+}
